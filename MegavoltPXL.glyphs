@@ -1,5 +1,5 @@
 {
-.appVersion = "3039";
+.appVersion = "3067";
 .formatVersion = 3;
 DisplayStrings = (
 JILL,
@@ -8,9 +8,9 @@ ONERS,
 "/S.ss05/S.ss05/Z.ss05/Z.ss05 
 /s.ss05/s.ss05/z.ss05 z",
 "DḌḎḤĿḶḸNṂṄṆRṚṜSṠṢṬYẎZẒodḍḏḥĭŀlḷḹṃṅṇṛṝṡṣtṭyẏẓ",
-"",
 "/l.ss06",
-"/a.ss07"
+"/a.ss07",
+""
 );
 date = "2021-01-24 15:42:49 +0000";
 familyName = Megavolt;
@@ -523,453 +523,14 @@ GSOffsetVertical = 30;
 );
 glyphs = (
 {
-color = 0;
-glyphname = A;
-kernLeft = O;
-kernRight = U;
-lastChange = "2021-02-09 05:15:54 +0000";
-layers = (
-{
-anchors = (
-{
-name = bottom;
-pos = (621,0);
-},
-{
-name = ogonek;
-pos = (1363,0);
-},
-{
-name = top;
-pos = (914,683);
-}
-);
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(-79,0,l),
-(862,0,l),
-(1031,234,l),
-(1031,0,l),
-(1399,0,l),
-(1399,683,l),
-(413,683,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(655,447,l),
-(1031,447,l),
-(1031,234,l),
-(501,234,l)
-);
-}
-);
-};
-layerId = m01;
-shapes = (
-{
-alignment = -1;
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (0,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (100,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (100,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (100,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (200,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (200,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (200,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (200,300);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (200,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (300,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (300,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (300,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (300,300);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (300,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (300,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (400,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (400,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (400,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (400,300);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (400,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (400,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (400,600);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (500,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (500,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (500,300);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (500,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (500,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (500,600);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (600,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (600,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (600,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (600,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (600,600);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (700,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (700,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (700,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (700,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (700,600);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (800,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (800,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (800,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (800,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (800,600);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (900,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (900,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (900,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (900,600);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1000,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1000,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1000,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1000,300);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1000,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1000,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1000,600);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1100,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1100,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1100,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1100,300);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1100,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1100,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1100,600);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1200,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1200,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1200,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1200,300);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1200,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1200,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1200,600);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1300,0);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1300,100);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1300,200);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1300,300);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1300,400);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1300,500);
-ref = pixel;
-},
-{
-alignment = -1;
-pos = (1300,600);
-ref = pixel;
-}
-);
-width = 1500;
-}
-);
-metricLeft = "=O";
-metricRight = "=O";
-unicode = 65;
-},
-{
 glyphname = Aacute;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = acutecomb;
@@ -984,14 +545,11 @@ unicode = 193;
 glyphname = Abreve;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = brevecomb;
@@ -1006,14 +564,11 @@ unicode = 258;
 glyphname = Abreveacute;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = brevecomb_acutecomb;
@@ -1028,14 +583,11 @@ unicode = 7854;
 glyphname = Abrevedotbelow;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (290,0);
 ref = dotbelowcomb;
@@ -1054,14 +606,11 @@ unicode = 7862;
 glyphname = Abrevegrave;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = brevecomb_gravecomb;
@@ -1076,14 +625,11 @@ unicode = 7856;
 glyphname = Abrevehookabove;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = brevecomb_hookabovecomb;
@@ -1098,14 +644,11 @@ unicode = 7858;
 glyphname = Abrevetilde;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = brevecomb_tildecomb;
@@ -1120,14 +663,11 @@ unicode = 7860;
 glyphname = Acircumflex;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = circumflexcomb;
@@ -1142,14 +682,11 @@ unicode = 194;
 glyphname = Acircumflexacute;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = circumflexcomb_acutecomb;
@@ -1164,14 +701,11 @@ unicode = 7844;
 glyphname = Acircumflexdotbelow;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (290,0);
 ref = dotbelowcomb;
@@ -1190,14 +724,11 @@ unicode = 7852;
 glyphname = Acircumflexgrave;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (578,132);
 ref = circumflexcomb_gravecomb;
@@ -1212,14 +743,11 @@ unicode = 7846;
 glyphname = Acircumflexhookabove;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (578,132);
 ref = circumflexcomb_hookabovecomb;
@@ -1234,14 +762,11 @@ unicode = 7848;
 glyphname = Acircumflextilde;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (578,132);
 ref = circumflexcomb_tildecomb;
@@ -1256,14 +781,11 @@ unicode = 7850;
 glyphname = Adieresis;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = dieresiscomb;
@@ -1278,14 +800,11 @@ unicode = 196;
 glyphname = Adotbelow;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (290,0);
 ref = dotbelowcomb;
@@ -1300,14 +819,11 @@ unicode = 7840;
 glyphname = Agrave;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = gravecomb;
@@ -1322,14 +838,11 @@ unicode = 192;
 glyphname = Ahookabove;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = hookabovecomb;
@@ -1344,14 +857,11 @@ unicode = 7842;
 glyphname = Amacron;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = macroncomb;
@@ -1366,14 +876,11 @@ unicode = 256;
 glyphname = Aogonek;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (737,0);
 ref = ogonekcomb;
@@ -1388,14 +895,11 @@ unicode = 260;
 glyphname = Aring;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = ringcomb;
@@ -1410,14 +914,11 @@ unicode = 197;
 glyphname = Atilde;
 kernLeft = O;
 kernRight = U;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 pos = (583,132);
 ref = tildecomb;
@@ -1432,14 +933,11 @@ unicode = 195;
 glyphname = AE;
 kernLeft = O;
 kernRight = E;
-lastChange = "2021-01-31 18:53:35 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
-{
-ref = A;
-},
 {
 alignment = -1;
 pos = (979,0);
@@ -1449,7 +947,6 @@ ref = E;
 width = 2260;
 }
 );
-metricLeft = "=A";
 metricRight = "=E";
 unicode = 198;
 },
@@ -7457,7 +6954,7 @@ color = 3;
 glyphname = V;
 kernLeft = N;
 kernRight = D;
-lastChange = "2021-02-09 05:18:24 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 anchors = (
@@ -7519,13 +7016,6 @@ nodes = (
 );
 };
 layerId = m01;
-shapes = (
-{
-angle = 180;
-pos = (1500,683);
-ref = A;
-}
-);
 width = 1500;
 }
 );
@@ -10403,7 +9893,7 @@ color = 0;
 glyphname = Y.ss04;
 kernLeft = N;
 kernRight = D;
-lastChange = "2021-01-31 18:53:35 +0000";
+lastChange = "2021-03-05 14:26:13 +0000";
 layers = (
 {
 anchors = (
@@ -10432,11 +9922,6 @@ nodes = (
 (992,-131,l),
 (897,-195,l)
 );
-},
-{
-angle = 180;
-pos = (1451,683);
-ref = A;
 }
 );
 width = 1451;
@@ -22045,13 +21530,13 @@ unicode = 63;
 },
 {
 glyphname = questiondown;
-lastChange = "2021-01-31 18:56:43 +0000";
+lastChange = "2021-03-05 14:25:45 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-alignment = 1;
+alignment = -1;
 angle = 180;
 pos = (1357,683);
 ref = question;
